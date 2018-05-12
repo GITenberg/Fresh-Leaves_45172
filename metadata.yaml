@@ -1,0 +1,30 @@
+_repo: Fresh-Leaves_45172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45172-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Willis, Grata Payson
+    - Parton, Sara Payson Willis
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: Collection of newspaper columns written for the New York Ledger.
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+title: Fresh Leaves
+url: http://www.gutenberg.org/ebooks/45172
